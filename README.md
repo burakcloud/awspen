@@ -1,4 +1,4 @@
-# AWSPen 🔥
+# AWSPen 
 
 > Modular AWS Penetration Testing Automation Tool
 
