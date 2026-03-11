@@ -21,14 +21,15 @@ mkdir -p "$OUTPUT_DIR"
 
 banner() {
   echo -e "${CYAN}"
-  echo '  ▄▄▄·▄▄▌ ▐ ▄▌.▄▄ · ·▄▄▄▄• ▄▄▄ . ▐ ▄ '
-  echo ' ▐█ ▀█ ██· █▌▐█▐█ ▀. ▐▀▀▪▄▀▄.▀·•█▌▐█'
-  echo ' ▄█▀▀█ ██▪▐█▐▐▌▄▀▀▀█▄▐█▄▄▌▐▀▀▪▄▐█▐▐▌'
-  echo ' ▐█▪ ▐▌▐█▌██ █▌▐█▄▪▐█ ▀▀▀• ▀▀▀ ██▐█▌'
-  echo '  ▀  ▀  ▀▀▀▀ ▀▪ ▀▀▀▀      ▀   ▀▀ █▪'
+  echo '     █████╗ ██╗    ██╗███████╗██████╗ ███████╗███╗   ██╗'
+  echo '    ██╔══██╗██║    ██║██╔════╝██╔══██╗██╔════╝████╗  ██║'
+  echo '    ███████║██║ █╗ ██║███████╗██████╔╝█████╗  ██╔██╗ ██║'
+  echo '    ██╔══██║██║███╗██║╚════██║██╔═══╝ ██╔══╝  ██║╚██╗██║'
+  echo '    ██║  ██║╚███╔███╔╝███████║██║     ███████╗██║ ╚████║'
+  echo '    ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═══╝'
   echo -e "${NC}"
-  echo -e "${BOLD}         AWS Penetration Testing Automation Tool${NC}"
-  echo -e "${YELLOW}                      v1.0 by burak korkmaz${NC}"
+  echo -e "${BOLD}        AWS Penetration Testing Automation Tool${NC}"
+  echo -e "${YELLOW}                  v1.0 by burak korkmaz${NC}"
   echo ""
 }
 
