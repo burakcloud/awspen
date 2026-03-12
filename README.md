@@ -196,4 +196,4 @@ Results are saved in the `output/` directory with timestamps.
 
 ---
 
-*by [burak korkmaz](https://github.com/burakkorkmaz)*
+*by [burak korkmaz](https://github.com/burakcloud)*
